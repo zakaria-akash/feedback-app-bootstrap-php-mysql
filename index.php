@@ -1,7 +1,6 @@
 <?php include "layout/header.php"; ?>
-<img src="img/logo.png" class="w-25 mb-3" alt="" />
 <h2>Feedback</h2>
-<p class="lead text-center">Leave feedback for future communication</p>
+<p class="lead text-center">Leave a feedback for future communication</p>
 <form action="" class="mt-4 w-75">
     <div class="mb-3">
         <label for="name" class="form-label">Name</label>

@@ -1,3 +1,4 @@
+<?php include 'config/database.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,7 +14,7 @@
 <body>
     <nav class="navbar navbar-expand-sm navbar-light bg-light mb-4">
         <div class="container">
-            <a class="navbar-brand" href="#">Zakaria Media</a>
+            <a class="navbar-brand" href="#">Live Feedback</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -36,3 +37,4 @@
 
     <main>
         <div class="container d-flex flex-column align-items-center">
+            <img src="img/logo.jpg" style="border-radius: 50%;" class="w-25 mb-3" alt="" />
